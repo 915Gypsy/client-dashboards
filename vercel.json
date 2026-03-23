@@ -1,8 +1,8 @@
 {
+  "redirects": [
+    { "source": "/", "destination": "/ttps", "permanent": false }
+  ],
   "rewrites": [
-    {
-      "source": "/ttps",
-      "destination": "/ttps.html"
-    }
+    { "source": "/ttps", "destination": "/ttps.html" }
   ]
 }
