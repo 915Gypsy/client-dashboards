@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/ttps",
-      "destination": "/ttps.html"
-    }
-  ]
-}

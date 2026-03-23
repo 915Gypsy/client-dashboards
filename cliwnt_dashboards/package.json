@@ -1,6 +1,0 @@
-{
-  "name": "ttps-dashboard",
-  "version": "1.0.0",
-  "description": "TTPS Procurement Readiness Dashboard with secure Airtable proxy",
-  "private": true
-}
